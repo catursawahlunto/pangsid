@@ -13,10 +13,8 @@ Aplikasi Konversi teks ke audio Natural Voice Over. Kemudahan mengubah teks menj
  - Tidak perlu install tinggal double klik langsung jalan.
 
 ## Download pangsid 
-```bash
-klik disini untuk download
-[@PANGSID.EXE](https://github.com/catursawahlunto/catursawahlunto/releases)
-```
+- [@Klik disini untuk download ](https://github.com/catursawahlunto/catursawahlunto/releases)
+  
 ## Authors
 - [@caturAdiSukrisno](https://github.com/catursawahlunto)
  
