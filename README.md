@@ -14,7 +14,7 @@ Aplikasi Konversi teks ke audio Natural Voice Over. Kemudahan mengubah teks menj
 
 ## Download pangsid 
 silahkan klik pangsid.exe
-- [@Klik disini untuk download ](https://github.com/catursawahlunto/pangsid/releases/tag/pangsid)
+- [@Klik disini untuk download ](https://github.com/catursawahlunto/pangsid/releases/download/pangsidv1/pangsid.exe)
   
 ## Authors
 - [@caturAdiSukrisno](https://github.com/catursawahlunto)
