@@ -1,5 +1,6 @@
 
 # FREE PANGSID (Panggilan Suara Informasi Digital / PANGgilan SIDang*
+# TEXT TO SPEECH
 
 Aplikasi Konversi teks ke audio Natural Voice Over. Kemudahan mengubah teks menjadi suara dalam berbagai bahasa Otomatis di konversi ke bahasa yang dipilih, praktis untuk pengumuman kantor, sekolah, & tempat umum.
 - Bahasa Indonesia, Inggris, Arab, Korea, Jepang dll*
